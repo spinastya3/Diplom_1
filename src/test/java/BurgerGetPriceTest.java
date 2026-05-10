@@ -49,7 +49,7 @@ public class BurgerGetPriceTest {
     }
 
     @Mock
-    Bun bun;
+    private Bun bun;
 
     @Mock
     private Ingredient ingredientSauce;

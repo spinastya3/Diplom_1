@@ -44,7 +44,7 @@ public class IngredientNamesInReceiptShouldBeLowercase {
     }
 
     @Mock
-    Bun bun;
+    private Bun bun;
 
     @Mock
     private Ingredient ingredientSauce;
